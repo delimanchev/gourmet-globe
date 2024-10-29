@@ -1,20 +1,20 @@
 # 🌍 Gourmet Globe
 
-Welcome to **Gourmet Globe** – your passport to flavors from around the world! This app is designed to make global cuisines accessible, bringing diverse and delicious recipes right to your kitchen.
+Dobrodošli v **Gourmet Globe** – vašem potnem listu do okusov z vsega sveta! Ta aplikacija je zasnovana tako, da omogoča dostop do svetovne kulinarike, prinaša raznolike in okusne recepte neposredno v vašo kuhinjo.
 
-## 🚀 Features
+## 🚀 Funkcije
 
-- 🌎 **Explore Recipes**: Discover dishes from various countries and cultures, from street food to gourmet.
-- 🧑‍🍳 **Step-by-Step Instructions**: Clear and easy-to-follow recipes for every skill level.
-- 🥣 **Authentic Cooking Tips**: Learn cultural insights and cooking techniques from around the globe.
-- 💬 **User Reviews & Ratings**: Share your experience and see what others think of each recipe.
+- 🌎 **Raziskovanje receptov**: Odkrijte jedi iz različnih držav in kultur, od ulične hrane do gurmanskih jedi.
+- 🧑‍🍳 **Korak za korakom**: Jasni in enostavni recepti za vsak nivo znanja.
+- 🥣 **Avtentični nasveti za kuhanje**: Spoznajte kulturne vpoglede in kuharske tehnike z vsega sveta.
+- 💬 **Ocene in mnenja uporabnikov**: Delite svoje izkušnje in poglejte, kaj o vsakem receptu menijo drugi.
 
-## 🛠️ Technologies
+## 🛠️ Tehnologije
 
 - **Frontend**: [React](https://reactjs.org/), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - **Backend**: [Spring Boot](https://spring.io/projects/spring-boot) (Java)
-- **Database**: [MySQL](https://www.mysql.com/) for recipe data storage
-- **API**: RESTful API developed with Spring Boot
+- **Baza podatkov**: [MySQL](https://www.mysql.com/) za shranjevanje receptov
+- **API**: RESTful API, razvit z uporabo Spring Boot
 
-##🌟 Acknowledgments
-A huge thanks to the culinary communities around the world for the inspiration and authentic recipes that make Gourmet Globe possible!
+## 🌟 Zahvale
+Velika zahvala kulinaričnim skupnostim po vsem svetu za navdih in avtentične recepte, ki omogočajo, da Gourmet Globe zaživi!
